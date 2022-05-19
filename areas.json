@@ -1,0 +1,824 @@
+{
+    "records": [
+        {
+            "idarea": 203,
+            "denom": "AIRES ACONDICIONADOS ZONA 5 CSI",
+            "clave": "0001  0000 "
+        },
+        {
+            "idarea": 275,
+            "denom": "ZONA 5 TEATRO",
+            "clave": "0001  00001"
+        },
+        {
+            "idarea": 401,
+            "denom": "OFICINA PA\u00d1OL DE LA BRIGADA MANTENIMIENTO CONSTRUCTIVO",
+            "clave": "0001  00002"
+        },
+        {
+            "idarea": 413,
+            "denom": "ZONA 3",
+            "clave": "0001  00003"
+        },
+        {
+            "idarea": 476,
+            "denom": "ZONA3-LOCAL 1 Y 2-CENTRO DE SISTEMAS OPERATIVOS Y CENTRO IMPLANTACION Y DESPLIEGUE",
+            "clave": "0001  00004"
+        },
+        {
+            "idarea": 478,
+            "denom": "ZONA3-LOCAL3-DIVISION DE GOBIERNO ELECTRONICO",
+            "clave": "0001  00005"
+        },
+        {
+            "idarea": 479,
+            "denom": "ZONA3-LOCAL4-DIRECCION DE LA DIVISION TEDIS",
+            "clave": "0001  00006"
+        },
+        {
+            "idarea": 480,
+            "denom": "ZONA3-LOCAL12-DIVISION GEOMATICA",
+            "clave": "0001  00007"
+        },
+        {
+            "idarea": 481,
+            "denom": "ZONA3-LOCAL13-CENTRO DE HERRAMIENTAS Y TECNOLOGIAS PARA LA INNOVACION",
+            "clave": "0001  00008"
+        },
+        {
+            "idarea": 482,
+            "denom": "ZONA3-LOCAL14-15-16-ADMINISTRATIVO UEB GOBERNANZA DIGITAL",
+            "clave": "0001  00009"
+        },
+        {
+            "idarea": 135,
+            "denom": "DIRECCION GENERAL XETID",
+            "clave": "0001  00101"
+        },
+        {
+            "idarea": 66,
+            "denom": "INFRAESTRUCTURA",
+            "clave": "0001  00102"
+        },
+        {
+            "idarea": 67,
+            "denom": "PANTRY DEL COORDINADOR GENERAL",
+            "clave": "0001  00103"
+        },
+        {
+            "idarea": 201,
+            "denom": "AIRES ACONDICIONADOS ZONA 1 CSI",
+            "clave": "0001  00104"
+        },
+        {
+            "idarea": 69,
+            "denom": "LOBBY 2",
+            "clave": "0001  00105"
+        },
+        {
+            "idarea": 71,
+            "denom": "UPS",
+            "clave": "0001  00107"
+        },
+        {
+            "idarea": 72,
+            "denom": "SALON DE REUNIONES PLANTA ALTA CSI",
+            "clave": "0001  00108"
+        },
+        {
+            "idarea": 219,
+            "denom": "UPS BLOQUE 4",
+            "clave": "0001  00109"
+        },
+        {
+            "idarea": 74,
+            "denom": "AIRES ACONDICIONADOS CSI BLOQUE 4",
+            "clave": "0001  00110"
+        },
+        {
+            "idarea": 75,
+            "denom": "SALON DE REUNIONES XETID",
+            "clave": "0001  00111"
+        },
+        {
+            "idarea": 76,
+            "denom": "DOCUMENTADORA PCC Y UJC",
+            "clave": "0001  00112"
+        },
+        {
+            "idarea": 221,
+            "denom": "CASETA C\/INCENDIO BLOQUE 4",
+            "clave": "0001  00113"
+        },
+        {
+            "idarea": 223,
+            "denom": "PANTRY GENERAL XETID",
+            "clave": "0001  00114"
+        },
+        {
+            "idarea": 224,
+            "denom": "OFICINA MANTENIMIENTO CONSTRUCTIVO",
+            "clave": "0001  00115"
+        },
+        {
+            "idarea": 239,
+            "denom": "PRESTAMOS",
+            "clave": "0001  00117"
+        },
+        {
+            "idarea": 77,
+            "denom": "OFICINA CIM",
+            "clave": "0001  00118"
+        },
+        {
+            "idarea": 78,
+            "denom": "OFICIAL DE GUARDIA DIRECCION GENERAL",
+            "clave": "0001  00119"
+        },
+        {
+            "idarea": 79,
+            "denom": "OFICINA OPCI",
+            "clave": "0001  00120"
+        },
+        {
+            "idarea": 193,
+            "denom": "ATENCION CADETES UCI",
+            "clave": "0001  00121"
+        },
+        {
+            "idarea": 167,
+            "denom": "SECODENA",
+            "clave": "0001  00122"
+        },
+        {
+            "idarea": 80,
+            "denom": "OFICINA DE TRANSPORTE",
+            "clave": "0001  00201"
+        },
+        {
+            "idarea": 468,
+            "denom": "DEPOSITO DE REPARACION UBS",
+            "clave": "0001  00202"
+        },
+        {
+            "idarea": 136,
+            "denom": "ESPECIALISTA COMERCIAL",
+            "clave": "0001  00301"
+        },
+        {
+            "idarea": 158,
+            "denom": "OFICINA COMERCIAL Y SOPORTE MINFAR",
+            "clave": "0001  00302"
+        },
+        {
+            "idarea": 194,
+            "denom": "SALON DE REUNION COMERCIAL",
+            "clave": "0001  00303"
+        },
+        {
+            "idarea": 198,
+            "denom": "DIRECCION COMERCIAL",
+            "clave": "0001  00304"
+        },
+        {
+            "idarea": 137,
+            "denom": "DIRECCION ECONOMICA",
+            "clave": "0001  00401"
+        },
+        {
+            "idarea": 190,
+            "denom": "CAJA ECONOMIA",
+            "clave": "0001  00402"
+        },
+        {
+            "idarea": 138,
+            "denom": "ESPECIALISTAS RECURSOS HUMANOS",
+            "clave": "0001  00501"
+        },
+        {
+            "idarea": 191,
+            "denom": "DIRECCION DE RECURSO HUMANO",
+            "clave": "0001  00502"
+        },
+        {
+            "idarea": 195,
+            "denom": "TIENDA XETID",
+            "clave": "0001  00503"
+        },
+        {
+            "idarea": 81,
+            "denom": "ESPECIALISTAS ATM",
+            "clave": "0001  00701"
+        },
+        {
+            "idarea": 82,
+            "denom": "ACTIVOS DE ALMACEN XETID",
+            "clave": "0001  00702"
+        },
+        {
+            "idarea": 192,
+            "denom": "DIRECCION DE ASEGURAMIENTO",
+            "clave": "0001  00703"
+        },
+        {
+            "idarea": 83,
+            "denom": "DEPOSITO XETID",
+            "clave": "0001  00704"
+        },
+        {
+            "idarea": 84,
+            "denom": "CSI DIRECTOR POP",
+            "clave": "0001  00705"
+        },
+        {
+            "idarea": 85,
+            "denom": "COORDINADOR GENERAL",
+            "clave": "0001  00706"
+        },
+        {
+            "idarea": 86,
+            "denom": "CSI ESPECIALISTAS POP",
+            "clave": "0001  00707"
+        },
+        {
+            "idarea": 87,
+            "denom": "LOBBY PLANTA ALTA CSI",
+            "clave": "0001  00708"
+        },
+        {
+            "idarea": 88,
+            "denom": "OFICINA CIM 2",
+            "clave": "0001  00709"
+        },
+        {
+            "idarea": 89,
+            "denom": "PANTRY PLANTA ALTA CSI",
+            "clave": "0001  00710"
+        },
+        {
+            "idarea": 90,
+            "denom": "ASISTENTES DEL COORDINADOR GENERAL",
+            "clave": "0001  00711"
+        },
+        {
+            "idarea": 91,
+            "denom": "AULA MAGNA CSI",
+            "clave": "0001  00712"
+        },
+        {
+            "idarea": 199,
+            "denom": "LOBBY PLANTA BAJA CSI",
+            "clave": "0001  00713"
+        },
+        {
+            "idarea": 169,
+            "denom": "LOCAL SEGURIDAD Y PROTECCION",
+            "clave": "0001  00714"
+        },
+        {
+            "idarea": 170,
+            "denom": "ATENCION PCC Y UJC",
+            "clave": "0001  00717"
+        },
+        {
+            "idarea": 172,
+            "denom": "LAB.DIRC.PRODUCCION",
+            "clave": "0001  00721"
+        },
+        {
+            "idarea": 160,
+            "denom": "TRANSPORTES XETID",
+            "clave": "0001  00723"
+        },
+        {
+            "idarea": 231,
+            "denom": "AIRES ACONDICIONADOS ZONA 2",
+            "clave": "0001  00724"
+        },
+        {
+            "idarea": 196,
+            "denom": "DIRECCION PRODUCCION LAB.4",
+            "clave": "0001  00801"
+        },
+        {
+            "idarea": 427,
+            "denom": "OFICINA DE CALIDAD LAB.6",
+            "clave": "0001  00802"
+        },
+        {
+            "idarea": 428,
+            "denom": "LABORATORIO CALIDAD LAB 6",
+            "clave": "0001  00803"
+        },
+        {
+            "idarea": 111,
+            "denom": "COORDINADOR GENERAL DE PRODUCCION",
+            "clave": "0001  10101"
+        },
+        {
+            "idarea": 112,
+            "denom": "CENTRO DE PLANIFICACION (LAB 1)",
+            "clave": "0001  10102"
+        },
+        {
+            "idarea": 115,
+            "denom": "OFICINA LABORATORIO 3 GESTION DE ENTIDADES",
+            "clave": "0001  10105"
+        },
+        {
+            "idarea": 179,
+            "denom": "OFICINA JEFE DE PROY. LAB 1 GESTION DE ENTIDADES",
+            "clave": "0001  10106"
+        },
+        {
+            "idarea": 118,
+            "denom": "CENTRO DE CIEGO DE AVILA",
+            "clave": "0001  10110"
+        },
+        {
+            "idarea": 469,
+            "denom": "CENTRO DE IMPLANTACION Y CAPACITACION",
+            "clave": "0001  10111"
+        },
+        {
+            "idarea": 104,
+            "denom": "OFICINA J. DIV. AUTOMATICA Y COMUNICACIONES",
+            "clave": "0001  20101"
+        },
+        {
+            "idarea": 108,
+            "denom": "CENTRO TERRITORIAL GRANMA",
+            "clave": "0001  20105"
+        },
+        {
+            "idarea": 204,
+            "denom": "OFICIAL GUARDIA DAC",
+            "clave": "0001  20110"
+        },
+        {
+            "idarea": 145,
+            "denom": "CENTRO SERVICIOS INTEGRALES 2 DAC",
+            "clave": "0001  20111"
+        },
+        {
+            "idarea": 182,
+            "denom": "ESPECIALISTAS  PROYECTOS ESTRATEGICOS",
+            "clave": "0001  22100"
+        },
+        {
+            "idarea": 128,
+            "denom": "PANTRY PROYECTOS ESTRATEGICOS",
+            "clave": "0001  22101"
+        },
+        {
+            "idarea": 255,
+            "denom": "SALON PROTOCOLO TeDIS",
+            "clave": "0001  22102"
+        },
+        {
+            "idarea": 258,
+            "denom": "LAB PROTOTIPADO PROYECTOS ESTRATEGICOS",
+            "clave": "0001  22103"
+        },
+        {
+            "idarea": 259,
+            "denom": "OFICINA ESPECIALISTAS DIRECCION TeDIS",
+            "clave": "0001  22104"
+        },
+        {
+            "idarea": 260,
+            "denom": "SUBDIRECCION TeDIS",
+            "clave": "0001  22105"
+        },
+        {
+            "idarea": 261,
+            "denom": "DIRECCION PROYECTOS ESTRATEGICOS",
+            "clave": "0001  22106"
+        },
+        {
+            "idarea": 262,
+            "denom": "CTRO DE DESARROLLO E INNOVACION (HEDEXi)",
+            "clave": "0001  22107"
+        },
+        {
+            "idarea": 263,
+            "denom": "LAB.SISTEMA OPERATIVO IZQUIERDO (CeSIO)",
+            "clave": "0001  22108"
+        },
+        {
+            "idarea": 264,
+            "denom": "LAB.SISTEMA OPERATIVO DERECHO (CeISI)",
+            "clave": "0001  22109"
+        },
+        {
+            "idarea": 132,
+            "denom": "CENTRO PROYECTO MARIEL",
+            "clave": "0001  30103"
+        },
+        {
+            "idarea": 152,
+            "denom": "ZONA 4 LABORATORIO 1- DIVISION GESTION DE ENTIDADES",
+            "clave": "0001  30108"
+        },
+        {
+            "idarea": 153,
+            "denom": "ZONA 4 LABORATORIO 3- DIVISION GESTION DE ENTIDADES",
+            "clave": "0001  30109"
+        },
+        {
+            "idarea": 134,
+            "denom": "ZONA 4 LABORATORIO 2- DIVISION GESTION DE ENTIDADES",
+            "clave": "0001  30111"
+        },
+        {
+            "idarea": 156,
+            "denom": "ZONA 4 JEFE DE DIV. TOMA DE DECISIONES",
+            "clave": "0001  30113"
+        },
+        {
+            "idarea": 157,
+            "denom": "ZONA 4 SECRETARIA DIVISION TOMA DE DECISIONES",
+            "clave": "0001  30114"
+        },
+        {
+            "idarea": 159,
+            "denom": "ZONA 4 SALON DE REUNIONES DE GESTION DE ENTIDADES",
+            "clave": "0001  30116"
+        },
+        {
+            "idarea": 94,
+            "denom": "JEFE DIV. SOFTWARE BASE CSI",
+            "clave": "0001  40103"
+        },
+        {
+            "idarea": 95,
+            "denom": "LAB 7 SOFTWARE BASE",
+            "clave": "0001  40104"
+        },
+        {
+            "idarea": 96,
+            "denom": "LAB 6 SOFTWARE BASE",
+            "clave": "0001  40105"
+        },
+        {
+            "idarea": 140,
+            "denom": "CENTRO DISE\u00d1O Y MODELAC. INFRAEST CIBER. SEG",
+            "clave": "0001  40106"
+        },
+        {
+            "idarea": 141,
+            "denom": "LAB 9 SOFTWARE BASE",
+            "clave": "0001  40107"
+        },
+        {
+            "idarea": 97,
+            "denom": "2DO JEFE DIV. SOFTWARE BASE",
+            "clave": "0001  40108"
+        },
+        {
+            "idarea": 98,
+            "denom": "SALON DE REUNIONES SOFTWARE BASE",
+            "clave": "0001  40109"
+        },
+        {
+            "idarea": 99,
+            "denom": "PANTRY SOFTWARE BASE",
+            "clave": "0001  40110"
+        },
+        {
+            "idarea": 100,
+            "denom": "OFICIAL DE GUARDIA CSI",
+            "clave": "0001  40111"
+        },
+        {
+            "idarea": 101,
+            "denom": "CENTRO DE COORDINACION Y CONTROL",
+            "clave": "0001  40112"
+        },
+        {
+            "idarea": 102,
+            "denom": "CENTRO DE DATOS 1 SOFTWARE BASE",
+            "clave": "0001  40113"
+        },
+        {
+            "idarea": 103,
+            "denom": "CENTRO DE DATOS 2 SOFTWARE BASE",
+            "clave": "0001  40114"
+        },
+        {
+            "idarea": 142,
+            "denom": "CENTRO TECNOLOG. BANCARIAS",
+            "clave": "0001  40115"
+        },
+        {
+            "idarea": 506,
+            "denom": "LOBBY DEL MULTICOLOR",
+            "clave": "0001  50104"
+        },
+        {
+            "idarea": 121,
+            "denom": "CUARTO DE AUDIO DSP",
+            "clave": "0001  50105"
+        },
+        {
+            "idarea": 510,
+            "denom": "FERIA AFT",
+            "clave": "0001  50106"
+        },
+        {
+            "idarea": 123,
+            "denom": "CENTRO DE ASEGTO DE INF. TECNOLOGICA AL CLIENTE DSP",
+            "clave": "0001  50107"
+        },
+        {
+            "idarea": 124,
+            "denom": "ARRENDAMIENTOS DSP",
+            "clave": "0001  50108"
+        },
+        {
+            "idarea": 125,
+            "denom": "JEFE DE PROYECTO LAB 7 DSP",
+            "clave": "0001  50109"
+        },
+        {
+            "idarea": 150,
+            "denom": "LAB 7 DSP",
+            "clave": "0001  50110"
+        },
+        {
+            "idarea": 129,
+            "denom": "CENTRO SOPORTE TECNICO",
+            "clave": "0001  60104"
+        },
+        {
+            "idarea": 151,
+            "denom": "NODO PRINCIPAL XETID",
+            "clave": "0001  60105"
+        },
+        {
+            "idarea": 212,
+            "denom": "CENTRO DATO ZONA 2 CSI",
+            "clave": "0001  60106"
+        },
+        {
+            "idarea": 155,
+            "denom": "DIRECCION UEB INFRAESTRUCTURA DIGITAL",
+            "clave": "0001  60108"
+        },
+        {
+            "idarea": 176,
+            "denom": "AREAS DE CONECTIVIDAD",
+            "clave": "0001  60112"
+        },
+        {
+            "idarea": 208,
+            "denom": "LOCAL DE COMUNICACION SCI",
+            "clave": "0001  60115"
+        },
+        {
+            "idarea": 171,
+            "denom": "PARALIZADOS",
+            "clave": "0001  718  "
+        },
+        {
+            "idarea": 163,
+            "denom": "CENTRO DE SANTIAGO DE CUBA",
+            "clave": "0001  80101"
+        },
+        {
+            "idarea": 227,
+            "denom": "OFICINA J. DIVISION GESTION DEL CONOCIMIENTO",
+            "clave": "0001  80102"
+        },
+        {
+            "idarea": 505,
+            "denom": "CENTRO IDICT",
+            "clave": "0001  80103"
+        },
+        {
+            "idarea": 229,
+            "denom": "CENTRO ONDI",
+            "clave": "0001  80104"
+        },
+        {
+            "idarea": 461,
+            "denom": "ESPECIALISTAS CIDES DIVISION MATANZAS",
+            "clave": "0001  80109"
+        },
+        {
+            "idarea": 277,
+            "denom": "OFICINA DIRECTOR DIVISION MATANZAS",
+            "clave": "0001  90001"
+        },
+        {
+            "idarea": 278,
+            "denom": "OFICINA JEFE DESARROLLO  DIVISION MATANZAS",
+            "clave": "0001  90002"
+        },
+        {
+            "idarea": 279,
+            "denom": "SALON DE REUNIONES DIVISION MATANZAS",
+            "clave": "0001  90003"
+        },
+        {
+            "idarea": 280,
+            "denom": "ECONOMIA DIVISION MATANZAS",
+            "clave": "0001  90004"
+        },
+        {
+            "idarea": 281,
+            "denom": "CENTRO DE IMPLANTACION Y SOPORTE  DIVISION MATANZAS",
+            "clave": "0001  90005"
+        },
+        {
+            "idarea": 282,
+            "denom": "LAB1 CENTRO DESARROLLO  DIVISION MATANZAS",
+            "clave": "0001  90006"
+        },
+        {
+            "idarea": 283,
+            "denom": "LAB2 CENTRO DESARROLLO  DIVISION MATANZAS",
+            "clave": "0001  90007"
+        },
+        {
+            "idarea": 284,
+            "denom": "OFICINA COMERCIAL DIVISION MATANZAS",
+            "clave": "0001  90008"
+        },
+        {
+            "idarea": 285,
+            "denom": "LOBBY CIDES  DIVISION MATANZAS",
+            "clave": "0001  90009"
+        },
+        {
+            "idarea": 286,
+            "denom": "LAB1.CIDES  DIVISION MATANZAS",
+            "clave": "0001  90010"
+        },
+        {
+            "idarea": 287,
+            "denom": "LAB 2.CIDES  DIVISION MATANZAS",
+            "clave": "0001  90011"
+        },
+        {
+            "idarea": 288,
+            "denom": "SERVIDOR CIDES  DIVISION MATANZAS",
+            "clave": "0001  90012"
+        },
+        {
+            "idarea": 289,
+            "denom": "APROVISIONAMIENTO INSFRAESTRUCTURA TECNOLOGICA   DIVISION MATANZAS",
+            "clave": "0001  90013"
+        },
+        {
+            "idarea": 290,
+            "denom": "GRUPO PARA EL CONTROL Y GESTION DE PROCESOS TEGNOLOGICO",
+            "clave": "0001  90014"
+        },
+        {
+            "idarea": 291,
+            "denom": "GRUPO DE MECATRONICA",
+            "clave": "0001  90015"
+        },
+        {
+            "idarea": 292,
+            "denom": "GRUPO DE COMUNICACIONES",
+            "clave": "0001  90016"
+        },
+        {
+            "idarea": 302,
+            "denom": "GRUPO DE DISE\u00d1O Y VIGILANCIA TECNOLOGICA",
+            "clave": "0001  90017"
+        },
+        {
+            "idarea": 403,
+            "denom": "DIRECCION DE UNIDAD BASICA PARA LA INVESTIGACION  Y DESARROLLO",
+            "clave": "0001  90018"
+        },
+        {
+            "idarea": 507,
+            "denom": "SEGUNDO JEFE UBIT",
+            "clave": "0001  90019"
+        },
+        {
+            "idarea": 508,
+            "denom": "GRUPO DE TECNOLOGIAS AVANSADAS",
+            "clave": "0001  90020"
+        },
+        {
+            "idarea": 509,
+            "denom": "MECANICA",
+            "clave": "0001  90021"
+        },
+        {
+            "idarea": 299,
+            "denom": "HOTELERA H  (UBDIT)",
+            "clave": "0001  90023"
+        },
+        {
+            "idarea": 402,
+            "denom": "CENTRO TERRITORIAL HOLGUIN",
+            "clave": "0001  90030"
+        },
+        {
+            "idarea": 405,
+            "denom": "SALON DE REUNIONES S.S-1",
+            "clave": "0001  90040"
+        },
+        {
+            "idarea": 406,
+            "denom": "SALON DE REUNIONES S.S-2",
+            "clave": "0001  90041"
+        },
+        {
+            "idarea": 407,
+            "denom": "ZONA 5 SALA  SITUACIONAL",
+            "clave": "0001  90042"
+        },
+        {
+            "idarea": 408,
+            "denom": "ZONA 5 TEATRO CABINA",
+            "clave": "0001  90043"
+        },
+        {
+            "idarea": 409,
+            "denom": "ZONA 5 MATRIZ SALA SITUACIONAL",
+            "clave": "0001  90044"
+        },
+        {
+            "idarea": 424,
+            "denom": "ZONA 5 CENTRO DATO",
+            "clave": "0001  90045"
+        },
+        {
+            "idarea": 426,
+            "denom": "CENTRO TERRITORIAL GUANTANAMO",
+            "clave": "0001  90046"
+        },
+        {
+            "idarea": 435,
+            "denom": "CENTRO TERRITORIAL PINAR DEL RIO",
+            "clave": "0001  90056"
+        },
+        {
+            "idarea": 433,
+            "denom": "PRESTACION DE SERVICIOS VILLA CLARA",
+            "clave": "0001  90071"
+        },
+        {
+            "idarea": 443,
+            "denom": "ADMINISTRACION VILLA CLARA",
+            "clave": "0001  90072"
+        },
+        {
+            "idarea": 444,
+            "denom": "DIRECCION VILLA CLARA",
+            "clave": "0001  90073"
+        },
+        {
+            "idarea": 445,
+            "denom": "RECEPCION LOBBY Y PASILLO VILLA CLARA",
+            "clave": "0001  90074"
+        },
+        {
+            "idarea": 458,
+            "denom": "SALON DE REUNIONES VILLA CLARA",
+            "clave": "0001  90087"
+        },
+        {
+            "idarea": 459,
+            "denom": "SERVIDORES VILLA CLARA",
+            "clave": "0001  90088"
+        },
+        {
+            "idarea": 460,
+            "denom": "AIRES INT. Y EXT.  VILLA CLARA",
+            "clave": "0001  90089"
+        },
+        {
+            "idarea": 467,
+            "denom": "CENTRO DE  DESARROLLO VILLA CLARA",
+            "clave": "0001  90090"
+        },
+        {
+            "idarea": 470,
+            "denom": "AULA DE CAPACITACION VILLA CLARA",
+            "clave": "0001  90091"
+        },
+        {
+            "idarea": 472,
+            "denom": "CENTRO TERRITORIAL CIENFUEGOS DIV.TERRITORIAL MATANZAS",
+            "clave": "0001  90093"
+        },
+        {
+            "idarea": 473,
+            "denom": "BIENESTAR MUNICIPIOS DIV.TERRITORIAL MATANZAS",
+            "clave": "0001  90094"
+        },
+        {
+            "idarea": 436,
+            "denom": "PRESTACION DE SERVICIOS PINAR DEL RIO",
+            "clave": "0001  956  "
+        }
+    ]
+}
